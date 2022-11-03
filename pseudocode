@@ -1,0 +1,11 @@
+Pseudocode for Callback HW
+
+In HTML:
+- let button’s ID name be clickme-btn
+- button’s title says: “Click Me!”
+
+in JS:
+- select the clickme-btn button
+- add an event function where:
+    - when button is clicked, exhibit callback function where:
+        - console displays “User has clicked the button!”
